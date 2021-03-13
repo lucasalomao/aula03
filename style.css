@@ -1,0 +1,35 @@
+h1{
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-color: red;
+    background-color: red;
+    float: left;
+
+}
+h2{
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-color: blue;
+    background-color:blue;
+    float: right;
+    
+
+}
+h3{
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-color:yellow;
+    background-color: yellow;
+    float: left;
+}
+h4{
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-color:green;
+    background-color:green;
+    float: right;
+}
